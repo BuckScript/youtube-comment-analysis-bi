@@ -1,6 +1,6 @@
 # YouTube Comment Analysis Dashboard
 
-![Dashboard](dashboard/dashboard_preview.png)
+![Dashboard](Dashboard/Dashboard%20Preview.png)
 
 ## 📊 Project Overview
 
