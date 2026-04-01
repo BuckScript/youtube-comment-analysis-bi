@@ -1,5 +1,7 @@
 # YouTube Comment Analysis Dashboard
 
+![Dashboard](dashboard/dashboard_preview.png)
+
 ## 📊 Project Overview
 
 This project analyzes YouTube comments to extract audience insights using Python and Power BI.
