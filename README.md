@@ -2,6 +2,10 @@
 
 ![Dashboard](Dashboard/Dashboard%20Preview.png)
 
+*Interactive dashboard built using Power BI*
+
+---
+
 ## 📊 Project Overview
 
 This project analyzes YouTube comments to extract audience insights using Python and Power BI.
